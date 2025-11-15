@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Rent For Nest Website
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# rent-for-next
+>>>>>>> 9ee8e9515e455f277ec0d50c3b40bd1b48426ff2
