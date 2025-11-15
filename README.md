@@ -2,7 +2,7 @@
 
   # Rent For Nest Website
 
-  This is a code bundle for Rent For Nest Website. The original project is available at https://www.figma.com/design/TCflepUe47w4jPBOyyFt8J/Rent-For-Nest-Website.
+  This is a code bundle for Rent For Nest Website. The original project is available at https://rent-for-next.netlify.app/ .
 
   ## Running the code
 
